@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Raw Data (large files, potentially sensitive)
+sensor project images/
+# clinicaldata_april5_2021_wDx_updated.xlsx
+
+# Generated Output (can be recreated by running scripts)
+# crop_pdf/extracted_imgs/
+# image_analysis/*.csv
+# image_analysis/*.png
+
+# IDE and OS specific files
+.idea/
+.vscode/
+*.DS_Store

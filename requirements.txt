@@ -1,0 +1,15 @@
+Pillow
+PyMuPDF
+numpy
+pandas
+torch 
+torchvision 
+umap-learn 
+hdbscan 
+scikit-learn
+seaborn
+matplotlib
+scipy
+openpyxl
+regex
+imbalanced-learn
